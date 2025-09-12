@@ -40,6 +40,8 @@ Currently seeking an **entry-level role or internship** in web development to ap
 - **Personal Portfolio Website**  
   Designed a responsive portfolio using **HTML, CSS, and JavaScript** to showcase my academic details and technical skills.  
 
+ **[Responsive School Website](https://sourabhkumar8216.wixsite.com/rkgschool)**  
+  Created a fully responsive **school website** using **Wix**, focusing on clean design and user-friendly navigation.
 ---
 
 ## 🔗 Profiles
