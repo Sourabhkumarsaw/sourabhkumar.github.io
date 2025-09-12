@@ -1,9 +1,8 @@
-# sourabhkumar.github.io
 # 📄 Sourabh Kumar – Resume
 
 ## 👨‍💻 About Me
 I am a **BCA student** aspiring to become a **Web Developer**, with knowledge of **C, C++**, and growing skills in **HTML, CSS, and JavaScript**.  
-I’m enthusiastic about building **responsive websites** and continuously learning modern frameworks.  
+I am enthusiastic about building **responsive websites** and learning modern frameworks.  
 Currently seeking an **entry-level role or internship** in web development to apply my skills and grow professionally.  
 
 ---
@@ -36,12 +35,13 @@ Currently seeking an **entry-level role or internship** in web development to ap
 
 ---
 
-## 🚀 Projects
-- **Personal Portfolio Website**  
+## 🚀 Projects / Training
+- **[Personal Portfolio Website](https://github.com/Sourabhkumarsaw/portfolio-website)**  
   Designed a responsive portfolio using **HTML, CSS, and JavaScript** to showcase my academic details and technical skills.  
 
- **[Responsive School Website](https://sourabhkumar8216.wixsite.com/rkgschool)**  
-  Created a fully responsive **school website** using **Wix**, focusing on clean design and user-friendly navigation.
+- **[Responsive School Website](https://sourabhkumar8216.wixsite.com/rkgschool)**  
+  Created a fully responsive **school website** using **Wix**, focusing on clean design and user-friendly navigation.  
+
 ---
 
 ## 🔗 Profiles
@@ -56,4 +56,5 @@ Currently seeking an **entry-level role or internship** in web development to ap
 - 📍 **Location:** Indergarhi, Ghaziabad  
 
 ---
+
 
