@@ -1,60 +1,133 @@
-# 📄 Sourabh Kumar – Resume
+# 👨‍💻 Saurabh
 
-## 👨‍💻 About Me
-I am a **BCA student** aspiring to become a **Web Developer**, with knowledge of **C, C++**, and growing skills in **HTML, CSS, and JavaScript**.  
-I am enthusiastic about building **responsive websites** and learning modern frameworks.  
-Currently seeking an **entry-level role or internship** in web development to apply my skills and grow professionally.  
+📍 Ghaziabad, Uttar Pradesh, India  
+📞 +91-9810418216  
+📧 sourabhkumar8216@gmail.com  
+
+🔗 GitHub: https://github.com/Sourabhkumarsaw  
+
+---
+
+## 🎯 Career Objective
+
+Motivated IT graduate seeking an entry-level role where I can apply my knowledge of software development, problem-solving, and system design to build efficient, scalable solutions while continuously improving my technical skills.
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Computer Applications (BCA)**  
-  CCS University, Meerut (2023 – 2026)  
-  *Current Score: 58.6% (till 3rd semester)*  
 
-- **Intermediate (12th)**  
-  DR. Ambedkar Inter College, UP Board (2023) – 53%  
+**Bachelor of Computer Applications (BCA)**  
+Inmantec Institution, CCS University Meerut  
+📊 59.17% (till 5th semester)  
+📅 2023 – 2026  
 
-- **High School (10th)**  
-  DR. Ambedkar Inter College, UP Board (2021) – 76.6%  
+**Class XII (UP Board)**  
+Dr. Ambedkar Inter College  
+📊 53%  
 
----
-
-## 💻 Technical Skills
-- **Frontend:** HTML, CSS, JavaScript (basic)  
-- **Programming Languages:** C, C++  
-- **Tools:** Git, GitHub  
-- **Other:** MS Office, Internet Applications  
+**Class X (UP Board)**  
+Dr. Ambedkar Inter College  
+📊 76.6%  
 
 ---
 
-## 🤝 Soft Skills
-- Communication & presentation skills  
-- Teamwork & leadership qualities  
-- Quick learner & problem-solving ability  
+## ⚙️ Technical Skills
+
+**Languages:**  
+Python, C, C++, JavaScript  
+
+**Web Development:**  
+HTML, CSS  
+
+**Databases:**  
+MySQL, SQLite  
+
+**Tools & Platforms:**  
+Git, GitHub, WordPress, Netlify, Render, MS Office  
 
 ---
 
-## 🚀 Projects / Training
-- **[Personal Portfolio Website](https://github.com/Sourabhkumarsaw/portfolio-website)**  
-  Designed a responsive portfolio using **HTML, CSS, and JavaScript** to showcase my academic details and technical skills.  
+## 🚀 Projects
 
-- **[Responsive School Website](https://sourabhkumar8216.wixsite.com/rkgschool)**  
-  Created a fully responsive **school website** using **Wix**, focusing on clean design and user-friendly navigation.  
+### 🔹 Personal Data Analysis System (PDAS)
+📅 Dec 2025 – Present  
+
+**Tech Stack:** Python, HTML, CSS, Git, GitHub, Netlify/Render  
+
+**Description:**  
+A web-based system to manage and analyze personal data efficiently, allowing users to store, retrieve, and visualize data.
+
+**Key Features:**
+- RESTful APIs for CRUD operations  
+- User-friendly interface for data input & visualization  
+- Structured database using ER modeling  
+- Full SDLC implementation (development → testing → deployment)  
+
+**Impact:**
+- Improved data organization and accessibility  
+- Successfully deployed live application  
+
+🔗 Project Link: *https://pdas-o7f7.onrender.com*
 
 ---
 
-## 🔗 Profiles
-- **LinkedIn:** [Sourabh Kumar](https://www.linkedin.com/in/sourabh-kumar-saw/)  
-- **GitHub:** [Sourabhkumarsaw](https://github.com/Sourabhkumarsaw)  
+### 🔹 School Website – Green Valley Public School
+📅 Nov 2025 – Feb 2026  
+
+**Tech Stack:** Python, JavaScript, HTML, CSS, GitHub, Netlify  
+
+**Description:**  
+Responsive website providing centralized access to school information like announcements, admissions, and contact details.
+
+**Key Features:**
+- Mobile-responsive UI  
+- Structured navigation system  
+- Dynamic components (forms, announcements)  
+- Backend integration for user queries  
+
+**Impact:**
+- Simplified communication for students & parents  
+- Improved accessibility of information  
+
+🔗 Project Link: *https://greenpubleschool.netlify.app/*
 
 ---
 
-## 📍 Contact
-- 📞 **Phone:** +91-9810418216  
-- 📧 **Email:** sourabbhkumar8216@gmail.com  
-- 📍 **Location:** Indergarhi, Ghaziabad  
+## 💼 Experience
+
+### Frontend Developer Intern  
+**eCom IT Solutions Pvt. Ltd., Indirapuram**  
+📅 July 2025 – Sept 2025  
+
+- Worked on frontend development tasks  
+- Collaborated in team projects  
+- Gained real-world development experience  
 
 ---
 
+## 🧠 Practical Experience
 
+- Strong teamwork and communication skills  
+- Experience in group projects and presentations  
+- Ability to explain technical concepts clearly  
+- Coordinated project deadlines and submissions  
+
+---
+
+## 📜 Certifications
+
+- Experience Letter – eCom IT Solutions  
+
+---
+
+## 🌐 Languages
+
+- English: Professional  
+- Hindi: Native  
+
+---
+
+## 📌 Note
+
+> Replace project links with actual deployed URLs (GitHub / Live Demo).  
+> Without links, this README loses credibility.
