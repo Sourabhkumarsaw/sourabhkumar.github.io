@@ -127,7 +127,5 @@ Responsive website providing centralized access to school information like annou
 
 ---
 
-## 📌 Note
 
-> Replace project links with actual deployed URLs (GitHub / Live Demo).  
 > Without links, this README loses credibility.
